@@ -1,0 +1,118 @@
+/**************************** html *************************************/
+body {
+  margin: 0;
+  background: white;
+}
+
+h2 {
+  font-weight: lighter;
+  font-size: 2.5rem;
+}
+
+p {
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+/**************************** classes *************************************/
+.content {
+  width: 95%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/**************************** top-section *************************************/
+.top-section {
+  margin-top: 20px;
+}
+
+.G-logo {
+  width: 80px;
+}
+
+.nav {
+  float: right;
+  margin-top: 40px;
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+.header-link {
+  margin: 10px 20px;
+  text-decoration: none;
+  color: grey;
+}
+
+.header-link:hover {
+  color: black;
+}
+
+.intro {
+  padding-top: 150px;
+  padding-bottom: 100px;
+  display: grid;
+  grid-template-columns: 60% 40%;
+}
+
+.img-me {
+  width: 300px;
+  float: right;
+  margin-right: 20px;
+}
+
+
+/**************************** middle-section *************************************/
+.middle-section {}
+
+.my-journey {
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+
+.my-portfolio {
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+
+.loading {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about-me {
+  padding-top: 150px;
+  padding-bottom: 100px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.about-me1 {
+  font-size: 16px;
+}
+
+.img-kyoto {
+  width: 100%;
+}
+
+.contact-form {
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+
+
+/**************************** bottom-section *************************************/
+.bottom-section {
+  margin-top: 100px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  background-color: #f4f9f9;
+}
+
+.bottom {
+  width: 95%;
+  max-width: 1200px;
+  margin: auto;
+  color: grey;
+}
